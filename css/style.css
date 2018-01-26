@@ -29,49 +29,48 @@ body{
 
 #c{
     background-color: red;
-    color: white;
-    font-family: fantasy;
-    text-align: right;
+    height: 5vh;
+    border-bottom: 1px solid red;
     
-
-}
-
-c:focus{
-    box-shadow: 2px white;
 
 }
 
 #d{
     background-color: orange;
-    
+    height: 15vh;
+    border-bottom: 1px solid orange;
 }
 
 #e{
     background-color: yellow;
-
+    height: 20vh;
+    border-bottom: 1px solid yellow;
 }
 
 #f{
     background-color: green;
+    height: 65vh;
+    border-bottom: 1px solid green;
     
 
 }
 
 #g{
     background-color: blue;
+    height: 30vh;
+    border-bottom: 1px solid blue;
 
 }
 
 #a{
     background-color: indigo;
+    height: 25vh;
+    border-bottom: 1px solid indigo
 
 }
 
 #b{
     background-color: violet;
-
-}
-
-.highlight{
-    box-shadow: 4px white;
+    height: 80vh;
+    border-bottom: 1px solid violet;
 }
