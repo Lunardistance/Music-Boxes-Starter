@@ -1,0 +1,77 @@
+body{
+    display:flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    background-color: black;
+    
+}
+
+.instrument{
+    border: 1px solid black;
+    display: flex;
+    height: auto;
+    width: 30vw;
+    justify-content: center;
+
+}
+
+.box{
+    height: 99.9vh;
+    margin: 0px;
+    width: .07vw;
+    border-left: 100px solid black;
+    justify-content: center;
+    
+}
+
+
+
+#c{
+    background-color: red;
+    color: white;
+    font-family: fantasy;
+    text-align: right;
+    
+
+}
+
+c:focus{
+    box-shadow: 2px white;
+
+}
+
+#d{
+    background-color: orange;
+    
+}
+
+#e{
+    background-color: yellow;
+
+}
+
+#f{
+    background-color: green;
+    
+
+}
+
+#g{
+    background-color: blue;
+
+}
+
+#a{
+    background-color: indigo;
+
+}
+
+#b{
+    background-color: violet;
+
+}
+
+.highlight{
+    box-shadow: 4px white;
+}
